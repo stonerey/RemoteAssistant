@@ -20,7 +20,7 @@ RemoteMark是一款支持Hololens与Android,PC视频通讯并支持空间标注�
 ![Image text](Image/sqlset.png)
 ![Image text](Image/SQL.png)
 #### 2、先运行服务器然后再运行PC、Hololens客户端。
-#### 3、$\color{red}{Hololens 的运行文件较大 需要安装 git lfs:https://git-lfs.github.com。或者手动单独下载}$ 
-![Image text](Image/hlsload.jpg)$\color{red}{红色字}$
+#### 3、Hololens 的运行文件较大 需要安装 git lfs:https://git-lfs.github.com。或者手动单独下载
+![Image text](Image/hlsload.jpg)
 ## 其他说明
 #### 1、演示项目只包含PC、Hololens,Android并未包含，如需正式版本请联系1053050442@qq.com
