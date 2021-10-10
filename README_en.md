@@ -24,4 +24,4 @@ RemoteMark is a software that supports Hololens, Android and PC video communicat
 #### 3、<font color=red>Hololens.7z  file is large ，requires installation git lfs:https://git-lfs.github.com Or download it manually</font>
 ![Image text](Image/hlsload.jpg)
 ## Other instructions
-#### 1、The demo project only includes PC and Hololens, not include Android. If you need an official version, please contact 1053050442@qq.com
+#### 1.If you need an official version, please contact 1053050442@qq.com
