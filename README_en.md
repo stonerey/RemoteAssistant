@@ -17,7 +17,7 @@ RemoteMark is a software that supports Hololens, Android and PC video communicat
 ![Image text](Image/hls2.jpg)
 ## Operating conditions
 
-#### 1.Run XRChatServer.exe，must be install MySQL database on local computer, and create database: chatsql, password: 123456. Then import account.dbf in the tools folder into the database.
+#### 1.Run XRChatServer.exe，must be install MySQL database on local computer, and create database: chatsql, password: 123456. Then import account.dbf in the tools folder into the database.UserAvatar in the data table is your own UserAvatar address.
 ![Image text](Image/sqlset.png)
 ![Image text](Image/SQL.png)
 #### 2、Run the server first and then the PC and Hololens client.
