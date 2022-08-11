@@ -17,7 +17,8 @@ RemoteMark是一款支持Hololens与Android,PC视频通讯并支持空间标注�
 ![Image text](Image/hls2.jpg)
 ## 运行条件
 
-#### 1.运行服务器XRChatServer.exe，需要在本地电脑安装MySQL数据库，然后创建数据库：chatsql,密码：123456。port:3306。然后将tools文件夹下的account.dbf导入数据库中。
+#### 1.运行服务器XRChatServer.exe，需要在本地电脑安装MySQL数据库，然后创建数据库：chatsql,密码：123456。port:3306。然后将tools文件夹下的account.dbf导入数据库中。数据表中UserAvatar填写你自己的用户头像地址。
+
 ![Image text](Image/sqlset.png)
 ![Image text](Image/SQL.png)
 #### 2、先运行服务器然后再运行PC、Hololens客户端。
